@@ -7,7 +7,7 @@
 
 ## Try the app online
 
-- This project is hosted on Vercel. You can try it out via this link: [https://todo-app-foci-solutions.vercel.app/](https://todo-app-foci-solutions.vercel.app/)
+- This project is hosted on Vercel. You can try it out via this link: [https://todo-app-sd.vercel.app/](https://todo-app-sd.vercel.app/)
 
 ## Try the app locally
 
