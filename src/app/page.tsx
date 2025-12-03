@@ -162,7 +162,7 @@ export default function RootPage() {
       <div className="w-full px-4 py-2 text-sm text-center border">
         🚀 View the code on{" "}
         <a
-          href="https://github.com/salimdellali/todo-app-foci-solutions"
+          href="https://github.com/salimdellali/todo-app-sd"
           target="_blank"
           rel="noopener noreferrer"
           className="underline underline-offset-4"
